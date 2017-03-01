@@ -1,0 +1,28 @@
+/*External method*/
+h2{
+    color: aqua; text-align: center;
+}
+/*Class selector*/
+.better{
+    color: darkorchid;
+}
+/*ID selector*/
+#lucky{
+    color: red;
+}
+/*Tag selector*/
+aside{
+    color: yellow;
+}
+/*Pseudo-element: Mouse over link*/
+A:hover{
+    color: lightgray;
+}
+/*Other pseudo-elements*/
+p::first-letter{
+    color: burlywood;
+}
+/*Floating An image*/
+img{
+    float: right;
+}
